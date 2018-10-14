@@ -7,7 +7,7 @@ Providers:
 * [Linode](https://www.linode.com/pricing#all)
 * [OVH](https://www.ovh.com/world/es/vps/vps-ssd.xml)
 * [Hetzner](https://www.hetzner.com/cloud)
-* Scaleway/Online.net
+* [Scaleway/Online.net](https://www.scaleway.com/pricing/)
 
 You can fork the repository, make your changes, and submit a pull request so I can merge them back. Keeping the list updated is easier if everyone contributes.
 
