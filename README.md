@@ -108,8 +108,8 @@ $160/mo
 -------
 
 Due to Gists not allowing for PR or contributions, I decided to fork it to an awesome list from the following gists:
-https://gist.github.com/kylemanna/637693650bc8bb9baadf6293a99e1813
-https://gist.github.com/justjanne/205cc548148829078d4bf2fd394f50ae
+* https://gist.github.com/kylemanna/637693650bc8bb9baadf6293a99e1813
+* https://gist.github.com/justjanne/205cc548148829078d4bf2fd394f50ae
 
 My own gist: [git.io/cloudvps](https://git.io/cloudvps)
 
