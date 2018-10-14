@@ -9,6 +9,8 @@ Providers:
 * Hetzner
 * Scaleway/Online.net
 
+You can fork the repository, make your changes, and submit a pull request so I can merge them back. Keeping the list updated is easier if everyone contributes.
+
 ------------
 
 $5/mo
