@@ -1,8 +1,15 @@
 # Awesome list of Cloud VPS and Dedicated servers providers with price breakdown
 
-[DigitalOcean](https://www.digitalocean.com/pricing/), [Amazon AWS LightSail](https://aws.amazon.com/lightsail/pricing/), [Vultr](https://www.vultr.com/pricing/), [Linode](https://www.linode.com/pricing#all), OVH, Hetzner, Scaleway/Online.net:
-=============================================================================================================
+Providers:
+* [DigitalOcean](https://www.digitalocean.com/pricing/)
+* [Amazon AWS LightSail](https://aws.amazon.com/lightsail/pricing/)
+* [Vultr](https://www.vultr.com/pricing/) 
+* [Linode](https://www.linode.com/pricing#all)
+* OVH
+* Hetzner
+* Scaleway/Online.net
 
+------------
 
 $5/mo
 -----
@@ -98,7 +105,8 @@ $160/mo
 
 
 
-=============================================================================================================
+-------
+
 Due to Gists not allowing for PR or contributions, I decided to fork it to an awesome list from the following gists:
 https://gist.github.com/kylemanna/637693650bc8bb9baadf6293a99e1813
 https://gist.github.com/justjanne/205cc548148829078d4bf2fd394f50ae
