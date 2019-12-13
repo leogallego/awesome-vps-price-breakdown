@@ -9,7 +9,16 @@ Providers:
 * [Hetzner](https://www.hetzner.com/cloud)
 * [Scaleway/Online.net](https://www.scaleway.com/pricing/)
 
-You can fork the repository, make your changes, and submit a pull request so I can merge them back. Keeping the list updated is easier if everyone contributes.
+## Contributing
+
+Keeping the list updated is easier if everyone contributes.
+
+1. You can fork the repository,
+2. make your changes,
+3. and submit a pull request so I can merge them back. 
+
+Please avoid adding new columns or modifying the tiers. This is a simple table for tier price comparison. 
+Every provider is listed above to check the current prices if in doubt, but keeping the exact price here is out of scope. 
 
 ------------
 
