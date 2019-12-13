@@ -13,27 +13,30 @@ You can fork the repository, make your changes, and submit a pull request so I c
 
 ------------
 
+
 Less than $5/mo
 -------
-| Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price |
-| ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- |
-| LightSail              |  vps |  1 GB |     1 |  20 GB SSD |     1 TB |   1000M | 3.50  |
+| Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    | 
+| ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- | ---------- |
+| LightSail              |  vps |  1 GB |     1 |  20 GB SSD |     1 TB |   1000M | 3.50  | 2019-12-13 |
+| VULTR (IPV6)           |  vps |  1 GB |     1 |  10 GB SSD |   512 MB |    500M | 2.50  | 2019-12-13 |
+| VULTR                  |  vps |  1 GB |     1 |  10 GB SSD |   512 MB |    500M | 3.50  | 2019-12-13 |
 
 
 $5/mo
 -----
 
-| Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price |
-| ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- |
-| LightSail              |  vps |   1 GB |     1 |   40 GB SSD |      2 TB |   1000M | 5.00  |
-| DigitalOcean           |  vps |   1 GB |     1 |   25 GB SSD |      1 TB |   1000M | 5.00  |
-| VULTR                  |  vps |   1 GB |     1 |   25 GB SSD |      1 TB |   1000M | 5.00  |
-| Linode                 |  vps |   1 GB |     1 |   20 GB SSD |      1 TB |   1000M | 5.00  |
-| Hetzner                |  vps |   4 GB |     2 |   40 GB SSD |     20 TB |   1000M | 5.00  |
-| OVH                    |  vps |   2 GB |     1 |   20 GB SSD |     10 TB |    100M | 3.00  |
-| Scaleway               |  vps |   2 GB |     2 |   50 GB SSD |      ∞ TB |    200M | 5.00  |
-| Scaleway (ARM)         |  vps |   2 GB |     2 |   50 GB SSD |      ∞ TB |    200M | 3.26  |
-| Scaleway               | dedi |   2 GB |     4 |   50 GB SSD |      ∞ TB |    200M | 3.26  |
+| Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
+| ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- | ---------- |
+| LightSail              |  vps |  1 GB |     1 |  40 GB SSD |     2 TB |   1000M | 5.00  | 2019-12-13 |
+| DigitalOcean           |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2019-12-13 |
+| VULTR                  |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2019-12-13 |
+| Linode                 |  vps |  1 GB |     1 |  20 GB SSD |     1 TB |   1000M | 5.00  |            |
+| Hetzner                |  vps |  4 GB |     2 |  40 GB SSD |    20 TB |   1000M | 5.00  |            |
+| OVH                    |  vps |  2 GB |     1 |  20 GB SSD |    10 TB |    100M | 3.00  |            |
+| Scaleway               |  vps |  2 GB |     2 |  50 GB SSD |     ∞ TB |    200M | 5.00  |            |
+| Scaleway (ARM)         |  vps |  2 GB |     2 |  50 GB SSD |     ∞ TB |    200M | 3.26  |            |
+| Scaleway               | dedi |  2 GB |     4 |  50 GB SSD |     ∞ TB |    200M | 3.26  |            |
 
 $10/mo
 ------
