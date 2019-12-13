@@ -13,6 +13,13 @@ You can fork the repository, make your changes, and submit a pull request so I c
 
 ------------
 
+Less than $5/mo
+-------
+| Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price |
+| ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- |
+| LightSail              |  vps |  1 GB |     1 |  20 GB SSD |     1 TB |   1000M | 3.50  |
+
+
 $5/mo
 -----
 
