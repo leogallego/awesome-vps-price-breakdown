@@ -13,6 +13,11 @@ You can fork the repository, make your changes, and submit a pull request so I c
 
 ------------
 
+1 	vCPU
+2 GB 	RAM
+20 GB 	Disk space
+20 TB 	Traffic
+	Locations
 
 Less than $5/mo
 -------
@@ -21,6 +26,7 @@ Less than $5/mo
 | LightSail              |  vps |  1 GB |     1 |  20 GB SSD |     1 TB |   1000M | 3.50  | 2019-12-13 |
 | VULTR (IPV6)           |  vps |  1 GB |     1 |  10 GB SSD |   512 MB |    500M | 2.50  | 2019-12-13 |
 | VULTR                  |  vps |  1 GB |     1 |  10 GB SSD |   512 MB |    500M | 3.50  | 2019-12-13 |
+| VULTR                  |  vps |  2 GB |     1 |  20 GB SSD |   20 TB  |    500M | 3.31  | 2019-12-13 |
 
 
 $5/mo
@@ -32,7 +38,7 @@ $5/mo
 | DigitalOcean           |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2019-12-13 |
 | VULTR                  |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2019-12-13 |
 | Linode                 |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2019-12-13 |
-| Hetzner                |  vps |  4 GB |     2 |  40 GB SSD |    20 TB |   1000M | 5.00  |            |
+| Hetzner                |  vps |  4 GB |     2 |  40 GB SSD |    20 TB |   1000M | 6.51  | 2019-12-13 |
 | OVH                    |  vps |  2 GB |     1 |  20 GB SSD |    10 TB |    100M | 3.00  |            |
 | Scaleway               |  vps |  2 GB |     2 |  50 GB SSD |     ∞ TB |    200M | 5.00  |            |
 | Scaleway (ARM)         |  vps |  2 GB |     2 |  50 GB SSD |     ∞ TB |    200M | 3.26  |            |
