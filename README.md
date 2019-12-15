@@ -24,12 +24,13 @@ Keeping the list updated is easier if everyone contributes.
 If you want to contribute, please read the [contribute](CONTRIBUTING.md) file and the [license](LICENSE.md).
 
 TL;DR:
-1. You can fork the repository,
+1. you can fork the repository,
 1. create a new branch in your repo to submit changes (*important*, don't submit your PR from master). 
-1  make your changes,
-1. and submit a pull request with a brief description so I can merge them back. 
+1. make your changes with the in-browser editor,
+1. and submit a pull request with a brief description so I can merge them back.
+1. you might get a request for modifications 
 
-Please avoid adding new columns or modifying the tiers. This is a simple table for tier price comparison.
+Please avoid adding new columns or modifying the tiers. This should be a simple table for tier price comparison.
 If you add a provider, remember to add it to the list above with a link to the pricing page.
 
 ------------
