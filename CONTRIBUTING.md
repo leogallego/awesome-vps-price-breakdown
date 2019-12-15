@@ -2,6 +2,16 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md) and a content [License](LICENSE.md). By participating in this project you agree to abide by the terms of the code of conduct and by contributing to the licence.
 
+## TL;DR on how to contribute:
+
+1. you can fork the repository,
+2. create a new branch in your repo to submit changes (important, don't submit your PR from master).
+3. make your changes with the in-browser editor,
+4. and submit a pull request with a brief description so I can merge them back.
+5. you might get a request for modifications
+
+Please avoid adding new columns or modifying the tiers. This should be a simple table for tier price comparison. If you add a provider, remember to add it to the list above with a link to the pricing page.
+
 ## Adding something to this awesome list
 
 If you have something awesome to contribute to the awesome list, this is how you do it.
