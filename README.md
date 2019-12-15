@@ -1,4 +1,13 @@
-# Awesome list of Cloud VPS and Dedicated servers providers with price breakdown
+<div align="center">
+	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<br>
+</div>
+
+
+# Awesome list of Cloud VPS with price breakdown
+
+This is a list of providers with VPS or dedicated services you can use to host your projects.
+The list is a work in progress (WIP), you can contribute reading the [contribute] section.
 
 Providers:
 * [DigitalOcean](https://www.digitalocean.com/pricing/)
@@ -12,17 +21,20 @@ Providers:
 ## Contributing
 
 Keeping the list updated is easier if everyone contributes.
+If you want to contribute, please read the [contribute](CONTRIBUTING.md) file and the [license](LICENSE.md).
 
+TL;DR:
 1. You can fork the repository,
-2. make your changes,
-3. and submit a pull request so I can merge them back. 
+1. create a new branch in your repo to submit changes (*important*, don't submit your PR from master). 
+1  make your changes,
+1. and submit a pull request with a brief description so I can merge them back. 
 
-Please avoid adding new columns or modifying the tiers. This is a simple table for tier price comparison. 
-Every provider is listed above to check the current prices if in doubt, but keeping the exact price here is out of scope. 
+Please avoid adding new columns or modifying the tiers. This is a simple table for tier price comparison.
+If you add a provider, remember to add it to the list above with a link to the pricing page.
 
 ------------
 
-Less than $5/mo
+$4.99/mo (or less)
 -------
 
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    | 
@@ -35,7 +47,7 @@ Less than $5/mo
 | Scaleway               |  vps |  2 GB |     2 |  50 GB SSD |     ∞ TB |    200M | 3.34  | 2019-12-13 |
 
 
-$5/mo
+$5/mo (up to $9.99)
 -----
 
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
@@ -49,7 +61,7 @@ $5/mo
 | Scaleway               |  vps |  4 GB |     3 |  50 GB SSD |     ∞ TB |    300M | 8.93  | 2019-12-13 |
 
 
-$10/mo
+$10/mo (up to $19.99)
 ------
 
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
@@ -64,7 +76,7 @@ $10/mo
 | Scaleway               |  vps |  8 GB |     8 | 200 GB SSD |     ∞ TB |    300M |       |            |
 | Online.net             | dedi |  4 GB |     2 | 120 GB SSD |     ∞ TB |   1000M |       |            |
 
-$20/mo
+$20/mo (up to $39.99)
 ------
 
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
@@ -80,7 +92,7 @@ $20/mo
 | Scaleway               | dedi |  16 GB |     8 |   50 GB SSD |   ∞ TB |    500M |       |            |
 | Online.net             | dedi |  16 GB |     8 |  250 GB SSD |   ∞ TB |   1000M |       |            |
 
-$40/mo
+$40/mo (up to $79.99)
 ------
 
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
@@ -96,7 +108,7 @@ $40/mo
 | Scaleway               | dedi |  32GB |     8 |   50GB SSD |      ∞TB |    800M |       |            |
 | Online.net             | dedi |  32GB |     8 |  750GB SSD |      ∞TB |   1000M |       |            |
 
-$80/mo
+$80/mo (up to $159.99)
 ------
 
 | Provider               | Type | RAM   | Cores | Storage     | Transfer | Network | Price | Checked    |
@@ -113,7 +125,7 @@ $80/mo
 | Scaleway               | dedi | 32 GB |     8 |   50 GB SSD |     ∞ TB |    800M |       |            |
 | Online.net             | dedi | 64 GB |     8 | 1500 GB SSD |     ∞ TB |   1000M |       |            |
 
-$160/mo
+$160/mo (and above)
 ------
 
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
