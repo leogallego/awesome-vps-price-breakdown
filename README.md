@@ -14,9 +14,9 @@ Providers:
 * [Amazon AWS LightSail](https://aws.amazon.com/lightsail/pricing/)
 * [Vultr](https://www.vultr.com/pricing/) 
 * [Linode](https://www.linode.com/pricing#all)
-* [OVH](https://www.ovh.com/world/es/vps/vps-ssd.xml) - prices in EUR
-* [Hetzner](https://www.hetzner.com/cloud) - prices in EUR
-* [Scaleway/Online.net](https://www.scaleway.com/pricing/) - prices in EUR, charged per hour
+* [OVH](https://www.ovh.com/world/es/vps/vps-ssd.xml) - prices in EUR (converted to USD)
+* [Hetzner](https://www.hetzner.com/cloud) - prices in EUR (converted to USD)
+* [Scaleway/Online.net](https://www.scaleway.com/pricing/) - prices in EUR (converted to USD), charged per hour (converted to month)
 
 ## Contributing
 
@@ -74,7 +74,8 @@ $10/mo (up to $19.99)
 | VULTR                  |  vps |  2 GB |     1 |  40 GB SSD |     2 TB |   1000M |       |            |
 | Linode                 |  vps |  2 GB |     1 |  50 GB SSD |     2 TB |   2000M |       |            |
 | Hetzner                |  vps |  8 GB |     3 |  80 GB SSD |    20 TB |   1000M | 10.08 | 2021-01-24 |
-| Hetzner                |  vps |  8 GB |     4 |  80 GB SSD |    20 TB |   1000M | 13.01 | 2021-01-24 |
+| Hetzner                |  vps |  8 GB |     2 |  80 GB SSD |    20 TB |   1000M | 13.00 | 2021-01-24 |
+| Hetzner                |  vps |  8 GB |     4 | 160 GB SSD |    20 TB |   1000M | 18.12 | 2021-01-24 |
 | OVH                    |  vps |  8 GB |     2 |  80 GB SSD |    10 TB |   1000M | 13.87 | 2019-12-13 |
 | Kimsufi                | dedi |  2 GB |     2 | 500 GB HDD |     ∞ TB |    100M |       |            |
 | Scaleway               |  vps |  4 GB |     3 |  40 GB SSD |     ∞ TB |    300M | 18.11 | 2021-01-24 |
@@ -89,8 +90,8 @@ $20/mo (up to $39.99)
 | DigitalOcean           |  vps |   4 GB |     2 |   80 GB SSD |     4 TB |   1000M |       |            |
 | VULTR                  |  vps |   4 GB |     2 |   60 GB SSD |     3 TB |   1000M |       |            |
 | Linode                 |  vps |   4 GB |     2 |   80 GB SSD |     4 TB |   4000M |       |            |
-| Hetzner                |  vps |  16 GB |     4 |  160 GB SSD |    20 TB |   1000M |€15.90 |            |
-| Hetzner                |  vps |   8 GB |     2 |80 GB NVME SSD|   20 TB |   1000M |€19.90 |            |
+| Hetzner                |  vps |  16 GB |     4 |  160 GB SSD |    20 TB |   1000M | 23.23 | 2021-01-24 |
+| Hetzner                |  vps |   8 GB |     2 |  240 GB SSD |    20 TB |   1000M | 33.46 | 2021-01-24 |
 | OVH                    |  vps |   8 GB |     2 |   80 GB SSD |     ∞ TB |    100M |       |            |
 | Kimsufi                | dedi |   4 GB |     2 |    1 TB HDD |     ∞ TB |    100M |       |            |
 | Scaleway               | dedi |  16 GB |     8 |   50 GB SSD |     ∞ TB |    500M |       |            |
@@ -101,13 +102,13 @@ $40/mo (up to $79.99)
 
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
 | ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- | ---------- |
-| LightSail              |  vps |   8GB |     2 |  160GB SSD |      5TB |   1000M | 20.00 | 2021-01-24 |
+| LightSail              |  vps |   8GB |     2 |  160GB SSD |      5TB |   1000M | 40.00 | 2021-01-24 |
 | DigitalOcean           |  vps |   8GB |     4 |  160GB SSD |      5TB |   1000M |       |            |
 | VULTR                  |  vps |   8GB |     4 |  100GB SSD |      4TB |   1000M |       |            |
 | Linode                 |  vps |   8GB |     4 |  160GB SSD |      5TB |   5000M |       |            |
 | OVH                    |  vps |  30GB |     2 |  100GB SSD |     10TB |    100M |       |            |
-| Hetzner                |  vps |  16GB |     4 |  160GB NVME SSD | 20TB |  1000M |€34.90 |            |
-| Hetzner                |  vps |  32GB |     8 |  240GB SSD |     20TB |   1000M |€29.90 |            |
+| Hetzner                |  vps |  32GB |     8 |  240GB SSD |     20TB |   1000M | 43.68 | 2021-01-24 |
+| Hetzner                |  vps |  32GB |    16 |  360GB SSD |     20TB |   1000M | 72.90 | 2021-01-24 |
 | Kimsufi                | dedi |  16GB |     8 |    2TB HDD |      ∞TB |    100M |       |            |
 | Scaleway               | dedi |  32GB |     8 |   50GB SSD |      ∞TB |    800M |       |            |
 | Online.net             | dedi |  32GB |     8 |  750GB SSD |      ∞TB |   1000M |       |            |
@@ -122,9 +123,7 @@ $80/mo (up to $159.99)
 | VULTR                  |  vps | 16 GB |     6 |  200 GB SSD |     5 TB |   1000M |       |            |
 | Linode                 |  vps | 16 GB |     6 |  320 GB SSD |     8 TB |   6000M |       |            |
 | OVH                    |  vps | 60 GB |     4 |  200 GB SSD |    10 TB |    100M |       |            |
-| Hetzner                |cloud | 32 GB |     8 |240 GB NVME SSD | 20 TB |   1000M |€69.90 |            |
-| Hetzner                |  vps | 32 GB |     8 |  600 GB SSD |    30 TB |   1000M |       |            |
-| Hetzner                | dedi | 64 GB |     8 | 1024 GB SSD |    30 TB |   1000M |       |            |
+| Hetzner                | dedi | 32 GB |     8 |  240 GB SSD |    20 TB |   1000M |€83.88 | 2021-01-24 |
 | SoYouStart             | dedi | 64 GB |     6 |    3 TB HDD |     ∞ TB |    250M |       |            |
 | Scaleway               | dedi | 32 GB |     8 |   50 GB SSD |     ∞ TB |    800M |       |            |
 | Online.net             | dedi | 64 GB |     8 | 1500 GB SSD |     ∞ TB |   1000M |       |            |
@@ -139,10 +138,8 @@ $160/mo (and above)
 | VULTR                  |  vps |  32GB |     8 |  300GB SSD |      6TB |   1000M |        |            |
 | Linode                 |  vps |  32GB |     8 |  640GB SSD |     16TB |   7000M |        |            |
 | OVH                    |  vps |  ?GB  |     ? |    ?GB SSD |      ?TB |    100M |        |            |
-| Hetzner                | cloud | 64GB |    16 |360GB NVME SSD |  20TB |   1000M |€139.90 |            |
-| Hetzner                | cloud |128GB |    32 |540GB NVME SSD |  20TB |   1000M |€269.90 |            |
-| Hetzner                |  vps |  ?GB  |     ? |    ?GB SSD |      ?TB |   1000M |        |            |
-| Hetzner                | dedi |  ?GB  |     ? |    ?GB SSD |      ?TB |   1000M |        |            |
+| Hetzner                | dedi | 64GB |     16 |  320GB SSD |     20TB |   1000M |€167.88 | 2021-01-24 |
+| Hetzner                | dedi |128GB |     32 |  600GB SSD |     20TB |   1000M |€323.88 | 2021-01-24 |
 | SoYouStart             | dedi |  ?GB  |     ? |    ?GB HDD |      ?TB |    250M |        |            |
 | Scaleway               | dedi |  ?GB  |     ? |    ?GB SSD |      ?TB |    800M |        |            |
 | Online.net             | dedi |  ?GB  |     ? |    ?GB SSD |      ?TB |   1000M |        |            |
