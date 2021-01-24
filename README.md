@@ -14,9 +14,9 @@ Providers:
 * [Amazon AWS LightSail](https://aws.amazon.com/lightsail/pricing/)
 * [Vultr](https://www.vultr.com/pricing/) 
 * [Linode](https://www.linode.com/pricing#all)
-* [OVH](https://www.ovh.com/world/es/vps/vps-ssd.xml)
-* [Hetzner](https://www.hetzner.com/cloud)
-* [Scaleway/Online.net](https://www.scaleway.com/pricing/)
+* [OVH](https://www.ovh.com/world/es/vps/vps-ssd.xml) - prices in EUR
+* [Hetzner](https://www.hetzner.com/cloud) - prices in EUR
+* [Scaleway/Online.net](https://www.scaleway.com/pricing/) - prices in EUR, charged per hour
 
 ## Contributing
 
