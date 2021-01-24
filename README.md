@@ -46,7 +46,7 @@ $4.99/mo (or less)
 | VULTR (IPV6)           |  vps |  1 GB |     1 |  10 GB SSD |   512 MB |    500M | 2.50  | 2019-12-13 |
 | VULTR                  |  vps |  1 GB |     1 |  10 GB SSD |   512 MB |    500M | 3.50  | 2019-12-13 |
 | VULTR                  |  vps |  2 GB |     1 |  20 GB SSD |   20 TB  |    500M | 3.31  | 2019-12-13 |
-| Scaleway               |  vps |  2 GB |     2 |  50 GB SSD |     ∞ TB |    200M | 3.34  | 2019-12-13 |
+| Scaleway               |  vps |  1 GB |     1 |  10 GB SSD |     ∞ TB |    200M | 2.27  | 2019-12-13 |
 
 
 $5/mo (up to $9.99)
@@ -61,7 +61,7 @@ $5/mo (up to $9.99)
 | Hetzner                |  vps |  2 GB |     2 |  40 GB SSD |    20 TB |    20TB | 5.10  | 2021-01-24 |
 | Hetzner                |  vps |  4 GB |     2 |  40 GB SSD |    20 TB |    20TB | 7.16  | 2021-01-24 |
 | OVH                    |  vps |  4 GB |     1 |  40 GB SSD |    10 TB |    100M | 6.87  | 2019-12-13 |
-| Scaleway               |  vps |  4 GB |     3 |  50 GB SSD |     ∞ TB |    300M | 8.93  | 2019-12-13 |
+| Scaleway               |  vps |  2 GB |     2 |  20 GB SSD |     ∞ TB |    500M | 9.06  | 2021-01-24 |
 
 
 $10/mo (up to $19.99)
@@ -77,7 +77,7 @@ $10/mo (up to $19.99)
 | Hetzner                |  vps |  8 GB |     4 |  80 GB SSD |    20 TB |   1000M | 13.01 | 2021-01-24 |
 | OVH                    |  vps |  8 GB |     2 |  80 GB SSD |    10 TB |   1000M | 13.87 | 2019-12-13 |
 | Kimsufi                | dedi |  2 GB |     2 | 500 GB HDD |     ∞ TB |    100M |       |            |
-| Scaleway               |  vps |  8 GB |     8 | 200 GB SSD |     ∞ TB |    300M |       |            |
+| Scaleway               |  vps |  4 GB |     3 |  40 GB SSD |     ∞ TB |    300M | 18.11 | 2021-01-24 |
 | Online.net             | dedi |  4 GB |     2 | 120 GB SSD |     ∞ TB |   1000M |       |            |
 
 $20/mo (up to $39.99)
