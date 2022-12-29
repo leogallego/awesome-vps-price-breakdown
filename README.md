@@ -50,6 +50,7 @@ $4.99/mo (or less)
 | VULTR (IPV6)           |  vps | 512MB |     1 |  10 GB SSD |   0.50 TB|    500M | 2.50  | 2021-03-01 |
 | VULTR                  |  vps | 512MB |     1 |  10 GB SSD |   0.50 TB|    500M | 3.50  | 2021-03-01 |
 | Scaleway               |  vps |  2 GB |     2 |  50 GB SSD |     ∞ TB |    200M | 3.34  | 2019-12-13 |
+| DigitalOcean           |  vps | 512MB |     1 |  10 GB SSD |   0.5 TB |   n/a   | 4.00  | 2022-12-29 |
 
 
 $5/mo (up to $9.99)
@@ -58,15 +59,15 @@ $5/mo (up to $9.99)
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
 | ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- | ---------- |
 | LightSail              |  vps |  1 GB |     1 |  40 GB SSD |     2 TB |   1000M | 5.00  | 2021-01-24 |
-| DigitalOcean           |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2021-01-24 |
+| DigitalOcean           |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 6.00  | 2022-12-29 |
 | VULTR                  |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2019-12-13 |
 | Linode                 |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2021-01-24 |
 | Hetzner                |  vps |  2 GB |     2 |  40 GB SSD |    20 TB |    20TB | 5.10  | 2021-01-24 |
 | Hetzner                |  vps |  4 GB |     2 |  40 GB SSD |    20 TB |    20TB | 7.16  | 2021-01-24 |
-| DigitalOcean           |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5  | 2021-03-01 |
-| VULTR                  |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5  | 2021-03-01 |
-| Linode                 |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5  | 2021-03-01 |
-| LightSail              |  vps |  1 GB |     1 |  40 GB SSD |     2 TB |   1000M | 5  | 2019-12-13 |
+| DigitalOcean           |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2021-03-01 |
+| VULTR                  |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2021-03-01 |
+| Linode                 |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2021-03-01 |
+| LightSail              |  vps |  1 GB |     1 |  40 GB SSD |     2 TB |   1000M | 5.00  | 2019-12-13 |
 | Hetzner                |  vps |  4 GB |     2 |  40 GB SSD |    20 TB |   1000M | 6.51  | 2019-12-13 |
 | OVH                    |  vps |  4 GB |     1 |  40 GB SSD |    10 TB |    100M | 6.87  | 2019-12-13 |
 | VULTR                  |  vps |  1 GB |     1 |  25 GB SSD |     1 MB |     1TB | 5.00  | 2021-01-24 |
@@ -79,8 +80,8 @@ $10/mo (up to $19.99)
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
 | ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- | ---------- |
 | LightSail              |  vps |  2 GB |     1 |  60 GB SSD |     3 TB |   1000M | 10.00 | 2021-01-24 |
-| DigitalOcean           |  vps |  2 GB |     1 |  50 GB SSD |     2 TB |   1000M | 10.00 | 2021-01-24 |
-| DigitalOcean           |  vps |  2 GB |     2 |  60 GB SSD |     3 TB |   1000M | 15.00 | 2021-01-24 |
+| DigitalOcean           |  vps |  2 GB |     1 |  50 GB SSD |     2 TB |   1000M | 12.00 | 2022-12-29 |
+| DigitalOcean           |  vps |  2 GB |     2 |  60 GB SSD |     3 TB |   1000M | 18.00 | 2022-12-29 |
 | VULTR                  |  vps |  2 GB |     1 |  55 GB SSD |     2 TB |   1000M | 10.00 | 2021-01-24 |
 | Linode                 |  vps |  2 GB |     1 |  50 GB SSD |     2 TB |   2000M | 10.00 | 2021-01-24 |
 | Hetzner                |  vps |  8 GB |     3 |  80 GB SSD |    20 TB |   1000M | 10.08 | 2021-01-24 |
@@ -102,7 +103,7 @@ $20/mo (up to $39.99)
 | Provider               | Type | RAM    | Cores | Storage     | Transfer | Network | Price | Checked    |
 | ---------------------- | ---- | ------ | ----- | ----------- | -------- | ------- | ----- | ---------- |
 | LightSail              |  vps |   4 GB |     2 |   80 GB SSD |     4 TB |   1000M | 20.00 | 2021-01-24 |
-| DigitalOcean           |  vps |   4 GB |     2 |   80 GB SSD |     4 TB |   1000M | 20.00 | 2021-01-24 |
+| DigitalOcean           |  vps |   4 GB |     2 |   80 GB SSD |     4 TB |   1000M | 24.00 | 2022-12-29 |
 | VULTR                  |  vps |   4 GB |     2 |   80 GB SSD |     3 TB |   1000M | 20.00 | 2021-01-24 |
 | Linode                 |  vps |   4 GB |     2 |   80 GB SSD |     4 TB |   4000M | 20.00 | 2021-01-24 |
 | Hetzner                |  vps |  16 GB |     4 |  160 GB SSD |    20 TB |   1000M | 23.23 | 2021-01-24 |
@@ -118,7 +119,7 @@ $40/mo (up to $79.99)
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    |
 | ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- | ---------- |
 | LightSail              |  vps |   8GB |     2 |  160GB SSD |      5TB |   1000M | 40.00 | 2021-01-24 |
-| DigitalOcean           |  vps |   8GB |     4 |  160GB SSD |      5TB |   1000M | 40.00 | 2021-01-24 |
+| DigitalOcean           |  vps |   8GB |     4 |  160GB SSD |      5TB |   1000M | 48.00 | 2022-12-29 |
 | VULTR                  |  vps |   8GB |     4 |  160GB SSD |      4TB |   1000M | 40.00 | 2021-01-24 |
 | Linode                 |  vps |   8GB |     4 |  160GB SSD |      5TB |   5000M | 40.00 | 2021-01-24 |
 | OVH                    |  vps |  30GB |     2 |  100GB SSD |     10TB |    100M |       |            |
@@ -134,7 +135,7 @@ $80/mo (up to $159.99)
 | Provider               | Type | RAM   | Cores | Storage     | Transfer | Network | Price | Checked    |
 | ---------------------- | ---- | ----- | ----- | ----------- | -------- | ------- | ----- | ---------- |
 | LightSail              |  vps | 16 GB |     4 |  320 GB SSD |     6 TB |   1000M | 80.00 | 2021-01-24 |
-| DigitalOcean           |  vps | 16 GB |     8 |  320 GB SSD |     5 TB |   1000M | 80.00 | 2021-01-24 |
+| DigitalOcean           |  vps | 16 GB |     8 |  320 GB SSD |     5 TB |   1000M | 96.00 | 2022-12-29 |
 | VULTR                  |  vps | 16 GB |     6 |  320 GB SSD |     5 TB |   1000M | 80.00 | 2021-01-24 |
 | Linode                 |  vps | 16 GB |     6 |  320 GB SSD |     8 TB |   6000M | 80.00 | 2021-01-24 |
 | OVH                    |  vps | 60 GB |     4 |  200 GB SSD |    10 TB |    100M |       |            |
