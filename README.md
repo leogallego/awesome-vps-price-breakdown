@@ -48,9 +48,9 @@ $4.99/mo (or less)
 | OVH                    |  vps |  2 GB |     1 |  20 GB SSD |   ??? TB |    ???M | 3.35  | 2019-12-13 |
 | LightSail              |  vps | 512MB |     1 |  20 GB SSD |     1 TB |   1000M | 3.50  | 2022-12-29 |
 | VULTR                  |  vps | 512MB |     1 |  10 GB SSD |   0.50 TB|    500M | 3.50  | 2021-03-01 |
-| Hetzner                |  vps |  2 GB |     1 |  20 GB SSD |     1 TB |   1000M | 3.64  | 2021-01-24 |
 | DigitalOcean           |  vps | 512MB |     1 |  10 GB SSD |   0.5 TB |   n/a   | 4.00  | 2022-12-29 |
 | CloudFanatic           |  vps |  2 GB |     2 |  60 GB SSD |     ∞ TB |   1000M | 4.50  | 2022-12-29 |
+| Hetzner                |  vps |  2 GB |     1 |  20 GB SSD |     1 TB |   1000M | 4.81  | 2022-12-29 |
 
 
 $5/mo (up to $9.99)
@@ -61,12 +61,13 @@ $5/mo (up to $9.99)
 | LightSail              |  vps |  1 GB |     1 |  40 GB SSD |     2 TB |   1000M | 5.00  | 2022-12-29 |
 | VULTR                  |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2022-12-29 |
 | Linode                 |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 5.00  | 2021-03-01 |
-| Hetzner                |  vps |  2 GB |     2 |  40 GB SSD |    20 TB |    20TB | 5.10  | 2021-01-24 |
+| Hetzner                |  vps |  2 GB |     2 |  40 GB SSD |    20 TB |    20TB | 5.53  | 2022-12-29 |
 | DigitalOcean           |  vps |  1 GB |     1 |  25 GB SSD |     1 TB |   1000M | 6.00  | 2022-12-29 |
-| Hetzner                |  vps |  4 GB |     2 |  40 GB SSD |    20 TB |    20TB | 7.16  | 2021-01-24 |
+| Hetzner                |  vps |  4 GB |     2 |  40 GB SSD |    20 TB |    20TB | 6.79  | 2022-12-29 |
 | OVH                    |  vps |  4 GB |     1 |  40 GB SSD |    10 TB |    100M | 6.87  | 2019-12-13 |
 | CloudFanatic           |  vps |  4 GB |     4 | 100 GB SSD |     ∞ TB |   1000M | 9.00  | 2022-12-29 |
 | Scaleway               |  vps |  2 GB |     2 |  20 GB SSD |     ∞ TB |    500M | 9.06  | 2021-01-24 |
+| Hetzner                |  vps |  4 GB |     3 |  80 GB SSD |    20 TB |    20TB | 9.58  | 2022-12-29 |
 
 
 $10/mo (up to $19.99)
@@ -79,8 +80,8 @@ $10/mo (up to $19.99)
 | DigitalOcean           |  vps |  2 GB |     2 |  60 GB SSD |     3 TB |   1000M | 18.00 | 2022-12-29 |
 | VULTR                  |  vps |  2 GB |     1 |  55 GB SSD |     2 TB |   1000M | 10.00 | 2021-01-24 |
 | Linode                 |  vps |  2 GB |     1 |  50 GB SSD |     2 TB |   2000M | 10.00 | 2021-01-24 |
-| Hetzner                |  vps |  8 GB |     3 |  80 GB SSD |    20 TB |   1000M | 10.08 | 2021-01-24 |
-| Hetzner                |  vps |  8 GB |     4 | 160 GB SSD |    20 TB |   1000M | 18.12 | 2021-01-24 |
+| Hetzner                |  vps |  8 GB |     2 |  80 GB SSD |    20 TB |   1000M | 12.31 | 2022-12-29 |
+| Hetzner                |  vps |  8 GB |     4 | 160 GB SSD |    20 TB |   1000M | 17.26 | 2022-12-29 |
 | OVH                    |  vps |  8 GB |     2 |  80 GB SSD |    10 TB |   1000M | 13.87 | 2019-12-13 |
 | Kimsufi                | dedi |  2 GB |     2 | 500 GB HDD |     ∞ TB |    100M |       |            |
 | CloudFanatic           |  vps |  8 GB |     4 | 200 GB SSD |     ∞ TB |   1000M | 18.00 | 2022-12-29 |
@@ -96,9 +97,9 @@ $20/mo (up to $39.99)
 | DigitalOcean           |  vps |   4 GB |     2 |   80 GB SSD |     4 TB |   1000M | 24.00 | 2022-12-29 |
 | VULTR                  |  vps |   4 GB |     2 |   80 GB SSD |     3 TB |   1000M | 20.00 | 2022-12-29 |
 | Linode                 |  vps |   4 GB |     2 |   80 GB SSD |     4 TB |   4000M | 20.00 | 2021-01-24 |
-| Hetzner                |  vps |  16 GB |     4 |  160 GB SSD |    20 TB |   1000M | 23.23 | 2021-01-24 |
+| Hetzner                |  vps |  16 GB |     4 |  160 GB SSD |    20 TB |   1000M | 22.09 | 2022-12-29 |
 | CloudFanatic           |  vps |  12 GB |     8 |  400 GB SSD |     ∞ TB |   1000M | 29.00 | 2022-12-29 |
-| Hetzner                |  vps |   8 GB |     2 |  240 GB SSD |    20 TB |   1000M | 33.46 | 2021-01-24 |
+| Hetzner                |  vps |   8 GB |     2 |  240 GB SSD |    20 TB |   1000M | 31.99 | 2022-12-29 |
 | OVH                    |  vps |   8 GB |     2 |   80 GB SSD |     ∞ TB |    100M |       |            |
 | Kimsufi                | dedi |   4 GB |     2 |    1 TB HDD |     ∞ TB |    100M |       |            |
 | Scaleway               | dedi |  16 GB |     8 |   50 GB SSD |     ∞ TB |    500M |       |            |
@@ -114,8 +115,8 @@ $40/mo (up to $79.99)
 | VULTR                  |  vps |   8GB |     4 |  160GB SSD |      4TB |   1000M | 40.00 | 2022-12-29 |
 | Linode                 |  vps |   8GB |     4 |  160GB SSD |      5TB |   5000M | 40.00 | 2021-01-24 |
 | OVH                    |  vps |  30GB |     2 |  100GB SSD |     10TB |    100M |       |            |
-| Hetzner                |  vps |  32GB |     8 |  240GB SSD |     20TB |   1000M | 43.68 | 2021-01-24 |
-| Hetzner                |  vps |  32GB |    16 |  360GB SSD |     20TB |   1000M | 72.90 | 2021-01-24 |
+| Hetzner                |  vps |  32GB |     8 |  240GB SSD |     20TB |   1000M | 41.76 | 2022-12-29 |
+| Hetzner                |  vps |  32GB |    16 |  360GB SSD |     20TB |   1000M | 69.69 | 2022-12-29 |
 | Kimsufi                | dedi |  16GB |     8 |    2TB HDD |      ∞TB |    100M |       |            |
 | Scaleway               | dedi |  32GB |     8 |   50GB SSD |      ∞TB |    800M |       |            |
 | Online.net             | dedi |  32GB |     8 |  750GB SSD |      ∞TB |   1000M |       |            |
