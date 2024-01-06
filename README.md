@@ -41,13 +41,13 @@ $4.99/mo (or less)
 
 | Provider               | Type | RAM   | Cores | Storage    | Transfer | Network | Price | Checked    | 
 | ---------------------- | ---- | ----- | ----- | ---------- | -------- | ------- | ----- | ---------- |
-| Scaleway               |  vps |  1 GB |     1 |  10 GB SSD |     ∞ TB |    200M | 2.27  | 2019-12-13 |
-| VULTR (IPV6)           |  vps | 512MB |     1 |  10 GB SSD |   0.50 TB|    500M | 2.50  | 2021-03-01 |
+| ~Scaleway              |  vps |  1 GB |     1 |  10 GB SSD |     ∞ TB |    200M | 2.27  | 2019-12-13 |
+| VULTR (IPV6)           |  vps | 512MB |     1 |  10 GB SSD |   0.50 TB|    500M | 2.50  | 2024-01-06 |
 | CloudFanatic           |  vps |  1 GB |     1 |  30 GB SSD |     ∞ TB |   1000M | 2.99  | 2022-12-29 |
 | Scaleway               |  vps |  2 GB |     2 |  50 GB SSD |     ∞ TB |    200M | 3.34  | 2019-12-13 |
 | OVH                    |  vps |  2 GB |     1 |  20 GB SSD |   ??? TB |    ???M | 3.35  | 2019-12-13 |
 | LightSail              |  vps | 512MB |     1 |  20 GB SSD |     1 TB |   1000M | 3.50  | 2022-12-29 |
-| VULTR                  |  vps | 512MB |     1 |  10 GB SSD |   0.50 TB|    500M | 3.50  | 2021-03-01 |
+| VULTR                  |  vps | 512MB |     1 |  10 GB SSD |   0.50 TB|    500M | 3.50  | 2024-01-06 |
 | DigitalOcean           |  vps | 512MB |     1 |  10 GB SSD |   0.5 TB |   n/a   | 4.00  | 2022-12-29 |
 | CloudFanatic           |  vps |  2 GB |     2 |  60 GB SSD |     ∞ TB |   1000M | 4.50  | 2022-12-29 |
 | Hetzner                |  vps |  2 GB |     1 |  20 GB SSD |     1 TB |   1000M | 4.81  | 2022-12-29 |
