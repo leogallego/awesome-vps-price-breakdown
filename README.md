@@ -3,6 +3,8 @@
 	<br>
 </div>
 
+# Interactive URL
+https://lesichkovm.github.io/vps-prices/
 
 # Awesome list of Cloud VPS with price breakdown
 
